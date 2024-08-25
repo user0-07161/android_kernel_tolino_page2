@@ -1,0 +1,4 @@
+config RTL8192ES
+	tristate "Realtek 8192E SDIO WiFi"
+	---help---
+	  Help message of RTL8192ES
